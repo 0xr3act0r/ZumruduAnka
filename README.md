@@ -13,4 +13,4 @@ Features that exist at the moment:
 
 There is currently no directory switching and renaming feature. It is planned to be added in the future. 
 
-Notice: It is for educational purposes only, cannot be abused! The developer accepts no responsibility for any use other than for this purpose. 
+**Notice: It is for educational purposes only, cannot be abused! The developer accepts no responsibility for any use other than for this purpose.**
