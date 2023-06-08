@@ -1,4 +1,10 @@
-# ZumruduAnka WebShell v1.0
+<p align="center">
+  <a href="https://github.com/0xr3act0r/zumruduanka">
+    <img src="logo.png" alt="Logo" width="256" height="256">
+  </a>
+  
+<h1 align="center">ZumruduAnka WebShell v1.0</h1>
+
 ZumruduAnka is an open source web shell/red teaming tool developed as a proof of concept using the GPT-4 model. 
 
 This webshell is a proof of concept of how tools can be developed using artificial intelligence given the appropriate prompts. Only minor bug fixes have been made to make it work properly.
